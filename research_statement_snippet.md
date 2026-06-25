@@ -1,0 +1,7 @@
+# Research Statement Snippet for Computational Cryo-ET Applications
+
+My research background is in structural proteomics, protein biochemistry, and HDX-MS analysis of dynamic macromolecular systems. I have used quantitative mass spectrometry workflows to study conformational changes, interaction interfaces, and protein dynamics in biologically important systems. These experiences trained me to think carefully about heterogeneous molecular populations, experimental reproducibility, data quality, and structural interpretation.
+
+I am now seeking to expand this expertise into computational cryo-electron tomography and subtomogram averaging. Cryo-ET is especially exciting to me because it can reveal macromolecular assemblies in native-like environments, while subtomogram averaging provides a path toward higher-resolution structural insight from heterogeneous cellular or reconstituted systems. My long-term goal is to integrate HDX-MS, cryo-EM/cryo-ET, and computational structural biology to understand dynamic protein and protein–RNA assemblies.
+
+I am particularly interested in developing and applying computational workflows for image analysis, alignment, reconstruction, classification, and integrative interpretation. My experience with Python-based data analysis, structural visualization, and multidisciplinary collaboration would allow me to contribute a biologically grounded perspective while building deeper expertise in cryo-ET algorithmic and high-throughput analysis.
