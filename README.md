@@ -45,10 +45,10 @@ Folder: [`projects/03_protein_dynamics_clustering`](projects/03_protein_dynamics
 
 ---
 
-### 4. Cryo-ET Learning Track
-A learning project documenting my transition into cryo-electron tomography, including terminology, software tools, and planned public-dataset practice workflows.
+### 4. Cryo-EM Learning Track
+A learning project documenting my transition into cryo-electron microscopy, including terminology, software tools, and planned public-dataset practice workflows.
 
-**Skills shown:** cryo-ET concepts, tilt-series alignment, tomogram reconstruction, subtomogram averaging, computational learning plan.
+**Skills shown:** cryo-EM concepts, tilt-series alignment, tomogram reconstruction, subtomogram averaging, computational learning plan.
 
 Folder: [`projects/04_cryoET_learning_track`](projects/04_cryoET_learning_track)
 
